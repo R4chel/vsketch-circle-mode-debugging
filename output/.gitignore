@@ -1,0 +1,4 @@
+# For the purpose of demonstration I want to upload the output and choosing to
+# not ignore svg files
+# /*.svg
+/*.hpgl
